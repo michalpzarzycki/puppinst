@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/michalpzarzycki/puppinst/issues"
   },
-  "homepage": "https://github.com/michalpzarzycki/puppinst#readme"
+  "homepage": "https://github.com/michalpzarzycki/puppinst#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0"
+  }
 }
